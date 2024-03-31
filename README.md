@@ -1,11 +1,11 @@
-# ToDo in Spark Framewor ✨
+# ToDo in Spark Framework ✨
 
-Bem-vindo ao projeto ToDo in Spark Framewor, um exemplo brilhante de como usar o incrível Spark Framework para criar aplicativos web em Java! 
+Bem-vindo ao projeto ToDo in Spark Framework, um exemplo brilhante de como usar o incrível Spark Framework para criar aplicativos web em Java! 
 Este projeto é como simples que abre horizonte para um mundo de desenvolvimento web.
 
 ## Visão Geral
 
-O ToDo in Spark Framewoa é um projeto que demonstra como criar um simples sistema de gerenciamento de itens usando o Spark Framework. 
+O ToDo in Spark Framework é um projeto que demonstra como criar um simples sistema de gerenciamento de itens usando o Spark Framework. 
 Com apenas algumas linhas de código, você pode criar uma aplicação web dinâmica e poderosa!
 
 ## Funcionalidades
